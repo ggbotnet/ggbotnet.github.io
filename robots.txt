@@ -10,7 +10,7 @@ Disallow: *
 User-agent: Discordbot
 Disallow: *
 
-User-Agent: FacebookBot
+User-agent: FacebookBot
 Disallow: *
 
 User-agent: facebookexternalhit
