@@ -1,38 +1,50 @@
 User-agent: Amazonbot
-Disallow: *
+Disallow: /
 
 User-agent: Applebot-Extended
-Disallow: *
+Disallow: /
 
 User-agent: ClaudeBot
-Disallow: *
+Disallow: /
 
 User-agent: Discordbot
-Disallow: *
+Disallow: /
 
 User-agent: FacebookBot
-Disallow: *
+Disallow: /
 
 User-agent: facebookexternalhit
-Disallow: *
+Disallow: /
 
 User-agent: Google-Extended
-Disallow: *
+Disallow: /
 
 User-agent: GPTBot
-Disallow: *
+Disallow: /
 
 User-agent: PerplexityBot
-Disallow: *
+Disallow: /
 
 User-agent: PetalBot
-Disallow: *
+Disallow: /
 
 User-agent: uptimerobot
-Disallow: *
+Disallow: /
 
 User-agent: viberbot
-Disallow: *
+Disallow: /
 
 User-agent: YaK
-Disallow: *
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Disallow: /
